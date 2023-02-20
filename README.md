@@ -1,4 +1,2 @@
 # TRUNK12-VGG
-t
-f
-f
+an experiment on using Convulotional Neural Networks as an extractor of high level features and using it in tandem with low level features extractors like Local Binary Patterns and Gabor filters.
